@@ -1,0 +1,1 @@
+console.log('New folder created from HITMAN');
